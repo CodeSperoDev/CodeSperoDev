@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm CodeSperoDev 👋
+
+I'm building practical data analysis projects with SQL and real-world datasets.
+
+**Skills:** SQL | Data Analysis | Reporting | Data Validation
+
+### 🔭 Current Projects
+- *vehicle-selector* — A TypeScript project aimed at filtering vehicle data  
+- *weatherDashboard* — Frontend dashboard consuming API weather data
+
+📫 Find me on LinkedIn: https://www.linkedin.com/in/stephen-schier-a0a50b1aa
 
 <!--
 **CodeSperoDev/CodeSperoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
